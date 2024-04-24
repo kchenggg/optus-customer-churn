@@ -18,3 +18,14 @@ Developed an analytics solution for Optus Customer Churn. This prediction model 
 - SPSS
 - Tableau
 - Qlik Sense
+  
+# Insights and Recommended Retention Strategies 
+1. In this particular cluster, majority of customers are not on a contract with high proportion of churn rate
+- Target advertising to this cluster through retail, business channels and mass markets
+ 
+2. In another cluster, there are customers with historical tendencies to recontract
+- To promote brand loyalty, offering a small incentive to renew instead of recontracting (i.e. Add 1GB of data to existing plan, cross-sell of another Optus service like Optus Sport etc)
+
+3. Curated a customized plan "Pick & Pay"
+- Opportunity for customers to customize their plan on a quarterly basis, targeted towards younger customers 
+
