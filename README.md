@@ -29,4 +29,6 @@ Developed an analytics solution for Optus Customer Churn. This prediction model 
 3. Curated a customized plan "Pick & Pay"
 - Opportunity for customers to customize their plan on a quarterly basis, targeted towards younger customers 
 
+<br />
+<br />
 Last updated: Jan 2019
