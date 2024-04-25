@@ -19,7 +19,7 @@ Developed an analytics solution for Optus' Marketing and Analytics team to addre
 - Tableau
 - Qlik Sense
 
-# Conclusion on Retention Strategies 
+# Conclusion on Recommended Retention Strategies 
 1. In this particular cluster, majority of customers are not on a contract with high proportion of churn rate
 - Target advertising to this cluster through retail, business channels and mass markets
  
