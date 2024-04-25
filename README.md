@@ -31,4 +31,4 @@ Developed an analytics solution for Optus Customer Churn. This prediction model 
 
 <br />
 <br />
-Last updated: Jan 2019
+Last updated: January 2019
